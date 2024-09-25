@@ -1,5 +1,4 @@
- <img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" alt="MasterHead" height="300" width="1200">
- <h1 align="center">Hi 👋, I'm Muhammad Umer</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Umer</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
