@@ -64,22 +64,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mumer78&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mumer78" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mumer78&show_icons=true&locale=en&theme=tokyonight" alt="mumer78" />
-</p>
-
-<p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=mumer78&theme=tokyonight" alt="mumer78" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
@@ -89,7 +73,7 @@
   <a href="https://linkedin.com/in/muhammad-umer-247970318" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/code_withumer" target="_blank">
+  <a href="https://instagram.com/m._umee" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
 </p>
