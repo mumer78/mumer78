@@ -178,11 +178,13 @@ Delivering custom full-stack web apps using React.js, Django, and Flask — mana
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mumer78&theme=tokyonight&hide_border=true" />
+<img src="./profile/streak.svg" alt="GitHub Streak" />
 
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=mumer78&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+
+<sub>⚠️ Stats/trophy widgets are served by a free shared host and occasionally rate-limit or go down. If a card doesn't load, wait a few minutes and refresh — the README itself is fine. For a permanent fix, you can self-host github-readme-stats on your own free Vercel account: <a href="https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own">deploy instructions here</a>.</sub>
 
 </div>
 
